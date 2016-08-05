@@ -1,0 +1,49 @@
+_repo: Politics--A-Treatise-on-Government_6762
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Ellis, William
+    birthdate: 1730
+    deathdate: 1801
+    gutenberg_agent_id: '4839'
+    url: http://www.gutenberg.org/2009/agents/4839
+creator:
+  author:
+    agent_name: Aristotle
+    aliases:
+    - Αριστοτέλης
+    - Aristoteles
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+    - http://en.wikipedia.org/wiki/Aristotle
+description: The Politics of Aristotle is the second part of a treatise of which the
+  Ethics is the first part. It looks back to the Ethics as the Ethics looks forward
+  to the Politics. For Aristotle did not separate, as we are inclined to do, the spheres
+  of the statesman and the moralist. In the Ethics he has described the character
+  necessary for the good life, but that life is for him essentially to be lived in
+  society, and when in the last chapters of the Ethics he comes to the practical application
+  of his inquiries, that finds expression not in moral exhortations addressed to the
+  individual but in a desc.
+gutenberg_bookshelf:
+- Politics
+- Classical Antiquity
+- Philosophy
+gutenberg_issued: '2004-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6762'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Political science -- Early works to 1800'
+- !lcc 'PA'
+- !lcc 'JC'
+- GITenberg
+title: 'Politics: A Treatise on Government'
+url: http://www.gutenberg.org/ebooks/6762
